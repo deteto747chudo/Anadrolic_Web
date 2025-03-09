@@ -1,0 +1,25 @@
+﻿@model IEnumerable<FAQ>
+
+<h2>Редактиране на ЧЗВ</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Въпрос</th>
+            <th>Отговор</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var faq in Model)
+        {
+            <tr>
+                <td>@faq.Question</td>
+                <td>@faq.Answer</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@faq.Id" class="btn btn-warning btn-sm">Редактирай</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

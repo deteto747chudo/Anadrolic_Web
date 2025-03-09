@@ -1,0 +1,127 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+<style>
+    body {
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .card {
+        background: rgba(255, 255, 255, 0.9);
+        backdrop-filter: blur(10px);
+        border-radius: 15px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+        padding: 2rem;
+        max-width: 400px;
+        width: 100%;
+        transition: transform 0.3s ease;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+    h2 {
+        color: #333;
+        font-weight: 600;
+        text-align: center;
+    }
+
+    hr {
+        border-top: 2px solid #764ba2;
+    }
+
+    .form-floating input {
+        border-radius: 10px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        font-size: 1rem;
+    }
+
+    .form-floating label {
+        color: #666;
+    }
+
+    .btn-primary {
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        border: none;
+        padding: 10px;
+        font-size: 1rem;
+        border-radius: 10px;
+        transition: background 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background: linear-gradient(135deg, #5a67d8, #6b46c1);
+        }
+
+    .text-center a {
+        color: #5a67d8;
+        font-weight: 500;
+        transition: color 0.3s;
+    }
+
+        .text-center a:hover {
+            color: #6b46c1;
+            text-decoration: none;
+        }
+
+    .text-muted {
+        font-size: 0.9rem;
+    }
+</style>
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg p-4 rounded" style="max-width: 500px; width: 100%;">
+        <div class="card-body">
+            <h2 class="text-center">@ViewData["Title"]</h2>
+            <hr />
+            <form id="account" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger text-center mb-3"></div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" placeholder="name@example.com" />
+                    <label asp-for="Input.Email">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Password" type="password" class="form-control" autocomplete="current-password" placeholder="password" />
+                    <label asp-for="Input.Password">Password</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-check mb-3">
+                    <input class="form-check-input" asp-for="Input.RememberMe" />
+                    <label class="form-check-label" asp-for="Input.RememberMe">
+                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                    </label>
+                </div>
+
+                <button id="login-submit" type="submit" class="btn btn-primary w-100">Log in</button>
+
+                <div class="text-center mt-3">
+                    <a id="forgot-password" asp-page="./ForgotPassword" class="d-block">Forgot your password?</a>
+                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="d-block">Register as a new user</a>
+                    <a id="resend-confirmation" asp-page="./ResendEmailConfirmation" class="d-block">Resend email confirmation</a>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

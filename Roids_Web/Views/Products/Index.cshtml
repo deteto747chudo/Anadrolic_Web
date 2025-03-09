@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Roids_Web.Models.Product>
+
+@{
+    ViewData["Title"] = "Продукти";
+}
+
+<h2>Продукти</h2>
+<a asp-action="Create" class="btn btn-primary">Добави продукт</a>
+
+<div class="row mt-4">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text">Цена: @product.Price лв.</p>
+                    <a href="#" class="btn btn-success">Купи</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

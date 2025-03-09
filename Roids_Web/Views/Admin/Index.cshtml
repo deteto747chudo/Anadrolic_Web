@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Admin Panel";
+}
+
+<h1 class="text-center mb-4">Welcome, Admin! 👑</h1>
+
+<div class="row">
+    <!-- Карта за FAQ -->
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body text-center">
+                <h4>Често задавани въпроси</h4>
+                <p class="text-muted">Общо: @ViewBag.FAQCount</p>
+                <a asp-controller="FAQs" asp-action="EditAll" class="btn btn-warning">Редактиране</a>
+                <a asp-controller="FAQs" asp-action="Create" class="btn btn-success">Добавяне</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Карта за Продукти -->
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body text-center">
+                <h4>Продукти</h4>
+                <p class="text-muted">Общо: @ViewBag.ProductCount</p>
+                <a asp-controller="Products" asp-action="EditAll" class="btn btn-warning">Редактиране</a>
+                <a asp-controller="Products" asp-action="Create" class="btn btn-success">Добавяне</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Допълнителни "глупости" -->
+<div class="text-center mt-4">
+    <a href="#" class="btn btn-danger">Изчисти базата (опасно!)</a>
+    <a href="#" class="btn btn-info">Генерирай фалшиви данни</a>
+</div>
+
+<style>
+    .card {
+        border-radius: 15px;
+        transition: transform 0.2s;
+    }
+    .card:hover {
+        transform: scale(1.05);
+    }
+</style>

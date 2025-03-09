@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Roids_Web.Models.Product>
+
+@{
+    ViewData["Title"] = "Редактиране на продукти";
+}
+
+<h2 class="mb-3">Редактиране на продукти</h2>
+<a asp-action="Create" class="btn btn-success mb-3">Добави нов продукт</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Снимка</th>
+            <th>Име</th>
+            <th>Цена</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@product.ImageUrl" alt="@product.Name" style="width: 50px; height: 50px; object-fit: cover;" />
+                </td>
+                <td>@product.Name</td>
+                <td>@product.Price лв.</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning btn-sm">Редактирай</a>
+                    <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm">Изтрий</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
