@@ -7,96 +7,12 @@
       "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\faqs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\faqs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\products\\editall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\products\\editall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\faqs\\editall.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\faqs\\editall.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\faqs\\editall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\faqs\\editall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\faqs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\faqs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\controllers\\faqscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\controllers\\faqscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\data\\migrations\\20250302181952_fixprimarykey2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\data\\migrations\\20250302181952_fixprimarykey2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\data\\migrations\\20250302180956_fiximageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\data\\migrations\\20250302180956_fiximageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\data\\migrations\\20250302181405_seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\data\\migrations\\20250302180234_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\data\\migrations\\20250302180234_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\data\\migrations\\20250307074039_seedfaqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\data\\migrations\\20250307074039_seedfaqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|c:\\users\\detetochudo\\desktop\\roids_web\\roids_web\\data\\migrations\\20250307072955_addfaqstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F146DF-ECC0-4BB2-953B-4242F2A18DCF}|Roids_Web\\Roids_Web.csproj|solutionrelative:roids_web\\data\\migrations\\20250307072955_addfaqstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,95 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T06:31:53.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T18:05:09.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T07:59:18.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\FAQs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\Index.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\FAQs\\Index.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T07:33:30.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T18:05:35.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwEMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T08:29:57.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T20:09:50.496Z"
             },
             {
               "$type": "Document",
@@ -240,242 +60,40 @@
               "RelativeDocumentMoniker": "Roids_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Roids_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAQwHQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T20:42:55.008Z",
+              "WhenOpened": "2025-03-09T18:34:45.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20250307074039_SeedFAQs.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250307074039_SeedFAQs.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250307074039_SeedFAQs.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250307074039_SeedFAQs.cs",
-              "RelativeToolTip": "Roids_Web\\Data\\Migrations\\20250307074039_SeedFAQs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T07:40:40.218Z"
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Roids_Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Roids_Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAYwJgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T18:05:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Roids_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwHMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T20:09:50.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T07:25:37.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Roids_Web\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:52:52.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "Roids_Web\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "Roids_Web\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-07T20:17:01.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Roids_Web\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Roids_Web\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-07T20:09:45.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EditAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\EditAll.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Products\\EditAll.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\EditAll.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Products\\EditAll.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T08:08:24.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Roids_Web\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:01:45.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Program.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Program.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Program.cs",
-              "RelativeToolTip": "Roids_Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:11:34.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Admin\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Admin\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Admin\\Index.cshtml.cs",
-              "RelativeToolTip": "Roids_Web\\Views\\Admin\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T08:06:10.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EditAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\EditAll.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\FAQs\\EditAll.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\EditAll.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\FAQs\\EditAll.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T07:55:22.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Roids_Web\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T07:58:50.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EditAll.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\EditAll.cshtml.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\FAQs\\EditAll.cshtml.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\EditAll.cshtml.cs",
-              "RelativeToolTip": "Roids_Web\\Views\\FAQs\\EditAll.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T07:55:43.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\FAQs\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\FAQs\\Edit.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\FAQs\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T07:38:26.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FAQsController.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Controllers\\FAQsController.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Controllers\\FAQsController.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Controllers\\FAQsController.cs",
-              "RelativeToolTip": "Roids_Web\\Controllers\\FAQsController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAiwFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T07:33:01.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FAQ.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Models\\FAQ.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Models\\FAQ.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Models\\FAQ.cs",
-              "RelativeToolTip": "Roids_Web\\Models\\FAQ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T07:28:09.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Roids_Web\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Roids_Web\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T18:05:07.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20250307072955_AddFAQsTable.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250307072955_AddFAQsTable.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250307072955_AddFAQsTable.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250307072955_AddFAQsTable.cs",
-              "RelativeToolTip": "Roids_Web\\Data\\Migrations\\20250307072955_AddFAQsTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T07:29:56.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Models\\Product.cs",
-              "RelativeToolTip": "Roids_Web\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:01:25.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20250302180956_FixImageUrl.cs",
-              "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250302180956_FixImageUrl.cs",
-              "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250302180956_FixImageUrl.cs",
-              "ToolTip": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250302180956_FixImageUrl.cs",
-              "RelativeToolTip": "Roids_Web\\Data\\Migrations\\20250302180956_FixImageUrl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:09:57.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Roids_Web\\Controllers\\HomeController.cs",
@@ -487,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 4,
               "Title": "20250302181952_FixPrimaryKey2.cs",
               "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250302181952_FixPrimaryKey2.cs",
               "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250302181952_FixPrimaryKey2.cs",
@@ -499,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 5,
               "Title": "20250302181405_SeedProducts.cs",
               "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250302181405_SeedProducts.cs",
               "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250302181405_SeedProducts.cs",
@@ -511,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 6,
               "Title": "20250302181519_FixPrimaryKey.cs",
               "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250302181519_FixPrimaryKey.cs",
               "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250302181519_FixPrimaryKey.cs",
@@ -523,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 7,
               "Title": "20250302180731_AddImageUrlToProduct.cs",
               "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250302180731_AddImageUrlToProduct.cs",
               "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250302180731_AddImageUrlToProduct.cs",
@@ -535,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 8,
               "Title": "20250302180234_AddProducts.cs",
               "DocumentMoniker": "C:\\Users\\detetochudo\\Desktop\\Roids_Web\\Roids_Web\\Data\\Migrations\\20250302180234_AddProducts.cs",
               "RelativeDocumentMoniker": "Roids_Web\\Data\\Migrations\\20250302180234_AddProducts.cs",

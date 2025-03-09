@@ -2,67 +2,203 @@
     ViewData["Title"] = "Home Page";
 }
 
-<style>
-    .banner {
-        position: relative;
-        width: 100%;
-        height: 1200px; /* Може да коригираш височината */
-        background-image: url('/images/banner.jpg'); /* Смени с твоя снимка */
-        background-size: cover;
-        background-position: center;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        color: white;
-    }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Gym Website - Tailwind Starter Kit</title>
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/gh/creativetimofficial/tailwind-starter-kit/compiled-tailwind.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+</head>
+<body>
+    <main class="pt-[80px]">
+        <div class="pt-16 pb-32 flex content-center items-center justify-center"
+             style="min-height: 95vh">
+            <div class="absolute top-0 w-full h-full bg-top bg-cover"
+                 style="
+            background-image: url('https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80');
+          ">
+                <span id="blackOverlay"
+                      class="w-full h-full absolute opacity-75 bg-black"></span>
+            </div>
+            <div class="container relative mx-auto" data-aos="fade-in">
+                <div class="items-center flex flex-wrap">
+                    <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
+                        <div>
+                            <h1 class="text-white font-semibold text-5xl">
+                                Усети <span class="text-orange-500">Силата</span>
+                            </h1>
+                            <p class="mt-4 text-lg text-gray-300">
+                                Отключете пълният потенциал на тялото си
+                            </p>
+                            <a href="#"
+                               class="bg-transparent hover:bg-orange-500 text-orange-500 font-semibold hover:text-white p-4 border border-orange-500 hover:border-transparent rounded inline-block mt-5 cursor-pointer">Научи повече!</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden"
+                 style="height: 70px; transform: translateZ(0px)">
+                <svg class="absolute bottom-0 overflow-hidden"
+                     xmlns="http://www.w3.org/2000/svg"
+                     preserveAspectRatio="none"
+                     version="1.1"
+                     viewBox="0 0 2560 100"
+                     x="0"
+                     y="0">
+                    <polygon points="2560 0 2560 100 0 100"></polygon>
+                </svg>
+            </div>
+        </div>
 
-    .banner-overlay {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.5); /* Полупрозрачен тъмен overlay */
-    }
+        <!-- About Section -->
+        <section id="about" class="relative py-20 bg-black text-white">
+            <div class="container mx-auto px-4">
+                <div class="items-center flex flex-wrap">
+                    <div class="w-full md:w-4/12 ml-auto mr-auto px-4"
+                         data-aos="fade-right">
+                        <img alt="..."
+                             class="max-w-full rounded-lg shadow-lg"
+                             src="https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" />
+                    </div>
+                    <div class="w-full md:w-5/12 ml-auto mr-auto px-4"
+                         data-aos="fade-left">
+                        <div class="md:pr-12">
+                            <small class="text-orange-500">Относно нашите продукти</small>
+                            <h3 class="text-4xl uppercase font-bold">
+                                Безопасни медикаменти
+                            </h3>
+                            <p class="mt-4 text-lg leading-relaxed">
+                                Разберете как може да приемате орални и инжекционни стероиди,
+                                напълно безопасно с минимален брой странични ефекти.
+                            </p>
+                            <ul class="list-none mt-6">
+                                <li class="py-2">
+                                    <div class="flex items-center">
+                                        <div>
+                                            <span class="font-semibold inline-block py-3 mr-3 text-orange-500">
+                                                <i class="fas fa-dumbbell fa-2x"></i>
+                                            </span>
+                                        </div>
+                                        <div>
+                                            <h4 class="text-xl">Най-новата технология</h4>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="py-2">
+                                    <div class="flex items-center">
+                                        <div>
+                                            <span class="font-semibold inline-block py-3 mr-3 text-orange-500">
+                                                <i class="fas fa-hard-hat fa-2x"></i>
+                                            </span>
+                                        </div>
+                                        <div>
+                                            <h4 class="text-xl">Високо-технологична лаборатория</h4>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="py-2">
+                                    <div class="flex items-center">
+                                        <div>
+                                            <span class="font-semibold inline-block py-3 mr-3 text-orange-500">
+                                                <i class="fas fa-users fa-2x"></i>
+                                            </span>
+                                        </div>
+                                        <div>
+                                            <h4 class="text-xl">
+                                                Професионален екип от химици и фармацефти
+                                            </h4>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-    .banner-content {
-        position: relative;
-        z-index: 2;
-        max-width: 600px;
-    }
+        <!-- Trainers Section -->
+        <section class="pt-20 pb-48">
+            <div class="container mx-auto px-4">
+                <div class="flex flex-wrap justify-center text-center mb-24">
+                    <div class="w-full lg:w-6/12 px-4">
+                        <h2 class="text-4xl font-semibold uppercase">
+                            Запознайте се с нашите продукти!
+                        </h2>
+                        <p class="text-lg leading-relaxed m-4">
+                            Доказани медикаменти на достъпни цени с доставки до цялата държава и европа!
+                        </p>
+                    </div>
+                </div>
+                <!-- Trainer Card Wrapper -->
+                <div class="flex flex-wrap">
+                    <!-- Card 1 -->
+                    <div class="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
+                         data-aos="flip-right">
+                        <div class="px-6">
+                            <img alt="..."
+                                 src="https://anabolic.bg/media/106/510.jpg"
+                                 class="shadow-lg rounded max-w-full mx-auto"
+                                 style="max-width: 250px" />
+                            <div class="pt-6 text-center">
+                                <h5 class="text-xl font-bold">Туринабол</h5>
+                                <a href="#"
+                                   class="bg-transparent hover:bg-orange-500 text-orange-500 font-semibold hover:text-white p-4 border border-orange-500 hover:border-transparent rounded inline-block mt-5 cursor-pointer">Купи Сега!</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 2 -->
+                    <div class="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
+                         data-aos="flip-right">
+                        <div class="px-6">
+                            <img alt="..."
+                                 src="https://anabolic.bg/media/106/488.jpg"
+                                 class="shadow-lg rounded max-w-full mx-auto"
+                                 style="max-width: 250px" />
+                            <div class="pt-6 text-center">
+                                <h5 class="text-xl font-bold">Анавар</h5>
+                                <a href="#"
+                                   class="bg-transparent hover:bg-orange-500 text-orange-500 font-semibold hover:text-white p-4 border border-orange-500 hover:border-transparent rounded inline-block mt-5 cursor-pointer">Купи Сега!</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 3 -->
+                    <div class="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
+                         data-aos="flip-right">
+                        <div class="px-6">
+                            <img alt="..."
+                                 src="https://anabolic.bg/media/106/501.jpg"
+                                 class="shadow-lg rounded max-w-full mx-auto"
+                                 style="max-width: 350px" />
+                            <div class="pt-6 text-center">
+                                <h5 class="text-xl font-bold">Тестостерон</h5>
+                                <a href="#"
+                                   class="bg-transparent hover:bg-orange-500 text-orange-500 font-semibold hover:text-white p-4 border border-orange-500 hover:border-transparent rounded inline-block mt-5 cursor-pointer">Купи Сега!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- partial -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+        <script>
+            function toggleNavbar(collapseID) {
+                document.getElementById(collapseID).classList.toggle('hidden')
+                document.getElementById(collapseID).classList.toggle('block')
+            }
 
-    .banner h1 {
-        font-size: 2.5rem;
-        margin-bottom: 15px;
-    }
 
-    .banner p {
-        font-size: 1.2rem;
-        margin-bottom: 20px;
-    }
-
-    .banner .btn {
-        display: inline-block;
-        padding: 12px 25px;
-        background: red;
-        color: white;
-        text-decoration: none;
-        font-size: 1rem;
-        border-radius: 5px;
-        transition: background 0.3s;
-    }
-
-    .banner .btn:hover {
-        background: darkred;
-    }
-</style>
-
-<div class="banner">
-    <div class="banner-overlay"></div>
-    <div class="banner-content">
-        <h1>Добре дошли в нашия онлайн магазин!</h1>
-        <p>Открийте най-добрите добавки за вашето здраве и спорт.</p>
-        <a href="@Url.Action("Shop", "Products")" class="btn">Разгледай продукти</a>
-    </div>
-</div>
+            AOS.init({
+                delay: 200,
+                duration: 1200,
+                once: false,
+            })
+        </script>
+</body>
+</html>
